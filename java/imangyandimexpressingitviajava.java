@@ -1,3 +1,5 @@
 public class imangyandimexpressingitviajava {
-    System.out.print("Alrighty, I'm angry");
+    public static void main(String[] args){
+        System.out.println("Alrighty, I'm angry");
+    }
 }
